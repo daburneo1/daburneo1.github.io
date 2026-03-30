@@ -1,0 +1,103 @@
+David Alejandro Burneo Valencia
+Desarrollador Full Stack
+davichov2013@gmail.com 	0991211239 	Loja, Ecuador 	david-burneo-ab879a153
+Desarrollador Full Stack y Líder Técnico con más de 3 años de experiencia en el análisis, diseño e
+implementación de sistemas empresariales de alta complejidad, aplicando principios SOLID, Clean
+Architecture y metodologías ágiles (Scrum). Especializado en .NET 10 (C#), React (TypeScript), bases de
+datos relacionales y no relacionales (PostgreSQL, MongoDB), con experiencia comprobada en el sector
+financiero. He liderado equipos de desarrollo aplicando prácticas DevOps y CI/CD, orientado a construir
+sistemas escalables, de alto rendimiento y calidad en entornos productivos. Apasionado por la excelencia
+técnica, la optimización del rendimiento y la mejora continua.
+Educación
+2025 – 2026 	Magister en Inteligencia Artificial Aplicada,
+Universidad Técnica Particular de Loja
+2024 – 2025 	Magister en Ingeniería en Software, Universidad Nacional de Loja
+2016 – 2023 	Ingeniero en Sistemas Informáticos y Computación,
+Universidad Técnica Particular de Loja
+Experiencia Profesional
+03/2023 – Presente
+Loja, Ecuador
+Líder Técnico | Desarrollador Full Stack Semi Senior,
+Coopmego | Cooperativa de Ahorro y Crédito
+Proyecto principal: Sistema de Crédito
+Lidero el análisis, diseño, desarrollo e implementación completa del sistema de
+crédito institucional, destinado a reemplazar el sistema anterior de crédito y con
+ello, reducir los tiempos de espera en el análisis y aprobación de solicitudes e
+incrementar la eficiencia operativa y trazabilidad de procesos mediante la
+digitalización total del flujo crediticio. Este cometido lo implementé gestionando
+un equipo de desarrolladores y coordinando los esfuerzos entre frontend, backend
+y base de datos. El sistema se encuentra actualmente en producción y constituye la
+plataforma central del proceso crediticio utilizada por todas las agencias de la
+cooperativa a nivel nacional.
+Principales logros y responsabilidades
+•Dirección técnica en todas las fases del proyecto: planificación, arquitectura,
+desarrollo, revisión de código y despliegue.
+•Diseño de microservicios para módulos de simulación, solicitud, análisis,
+digitalización, validación, aprobación y desembolso de crédito.
+•Desarrollo full stack con React TS y .NET 10, bajo principios SOLID y Clean
+Architecture
+•Implementación de flujos de estados de crédito con n8n e integración con el core
+financiero mediante REST APIs, gRPC y mensajería asíncrona.
+•Modelado de bases de datos relacionales y no relacionales (Sybase, PostgreSQL)
+y generación de reportes con PL/pgSQL.
+•Despliegue en entornos Docker con pipelines CI/CD en Jenkins
+
+-- 1 of 2 --
+
+Otros proyectos relevantes:
+•Sistema de microservicios Python automatizado para la consulta de estados
+judiciales en el Consejo de la Judicatura (SATJE)
+•Sistema de validación de documentos mediante IA
+•Módulos de gestión administrativa interna y migración de sistemas a nuevas
+tecnologías.
+•Participación en equipos ágiles (Scrum) con prácticas DevSecOps para calidad y
+seguridad.
+Tecnologías utilizadas: .NET 10, NetFramework, C#, Python, React TS, Vue JS, API
+REST FULL, Sybase, PostgreSQL, SQL Server, PL/pgSQL, gRPC, Jenkins, Docker, Git,
+n8n, entre otros.
+11/2021 – 05/2022
+Loja, Ecuador
+Pasante, Universidad Técnica Particular de Loja
+Apoyé el proceso de digitalización de documentación institucional, colaborando
+en la organización, clasificación y migración de archivos físicos a entornos
+digitales.
+Participé en la automatización del flujo de gestión documental, aplicando buenas
+prácticas en el manejo de datos, control de versiones y respaldo de información.
+Capacitaciones
+04/2025 	Advanced C# Programming in .NET Core, EDUCBA
+03/2024 	Introduction to Test and Behavior Driven Development, IBM
+06/2024 	Introduction to DevSecOps, Johns Hopkins University
+10/2023 	DevOps Advanced, IT Cert
+09/2023 	Gestión Ágil de Proyectos, Ideas Group
+Idiomas
+Español 	Inglés
+Skills
+C# .NET
+Full Stack
+TypeScript
+VueJS
+SQL Server
+PL/pgSQL
+SOLID
+Hexagonal Architecture
+Docker
+Git
+REST API
+Scrum
+JetBrains IDE/IA
+Python
+JavaScript
+React TS
+PostgreSQL
+Sybase
+ML & LLM
+Clean Architecture
+Microservicios
+Jenkins
+n8n
+gRPC
+DevOps
+Codex
+
+-- 2 of 2 --
+
